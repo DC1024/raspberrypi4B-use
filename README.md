@@ -1,8 +1,8 @@
 # 服务器是什么？
 当说到服务器的时候，你可能想到的是这种庞然大物
-![](http://image.dcchen.top/www/wwwroot/easyImages/image20212021/09/20/finidh.png)
+![](http://image.dcchen.top/www/wwwroot/easyImages/image20212021/09/20/finidh.png)  
 但其实，这种小设备也是服务器
-![](http://image.dcchen.top/www/wwwroot/easyImages/image20212021/09/20/fjdz98.png)
+![](http://image.dcchen.top/www/wwwroot/easyImages/image20212021/09/20/fjdz98.png)  
 就我个人的理解，只要是为其它设备或人提供服务的设备，就能称作服务器。
 # 我的服务器
 我用的服务器是 RPI4B ，也就是树莓派，如果你不了解什么是树莓派的话，可以看看[[树莓派是什么？怎么入坑？全指南！]]
